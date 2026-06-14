@@ -1,5 +1,4 @@
-## Spatial analysis projects written in R, developed as part of coursework 
-at Oregon State University.
+## Spatial analysis projects written in R, developed as part of coursework at Oregon State University.
 
 # Healthcare Deserts in Oregon
 Identifies census block groups in Oregon lacking adequate access to acute care 
