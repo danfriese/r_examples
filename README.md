@@ -2,8 +2,8 @@
 
 ## Healthcare Deserts in Oregon
 Identfies census block groups in Oregon lacking adequate access to acute care 
-hospitals using straight-line distance and a population-weighted composite index. 
-Includes spatial autocorrelation analysis (Global and Local Moran's I).
+hospitals using straight-line distance. Includes spatial autocorrelation 
+analysis (Global and Local Moran's I).
 
 ## Heat Vulnerability Index – Eugene/Springfield, OR
 Builds a heat vulnerability index (HVI) at the census block group level using ACS 
